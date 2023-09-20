@@ -18,10 +18,11 @@
 
   
 - <h4> frameworks & libraries </h4>
- <img src = "https://img.shields.io/badge/%20PIXIV-%2331A8FF.svg?style=for-the-badge&logo=PIXIV&logoColor=white" alt = "Pixiv" />
+   <img src = "https://img.shields.io/badge/%20PIXIV-%2331A8FF.svg?style=for-the-badge&logo=PIXIV&logoColor=white" alt = "Pixiv" />
+   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
- 
+  <img src = "https://img.shields.io/badge/Clip%20STUDIO-%2331A8FF.svg?style=for-the-badge&logoColor=white" alt = "photoshop" />
   </br></br>
   
 <div align="right">
