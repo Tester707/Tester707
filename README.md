@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="TSA" src="file:///C:/Users/user/Desktop/tsa.jpg"/>
+<img align="right" width="400" alt="TSA" src="https://ifh.cc/g/3MhzwG.jpg"/>
 
 <h2> / about me /</h2>
   
