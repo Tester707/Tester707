@@ -29,7 +29,7 @@
   </div>
   </div>
 
-<h1>GitHub Stats! 📊</h1>
+<h1>GitHub Stats </h1>
 <Br>
   
 [![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Tester707&show_icons=true&theme=merko)](https://github.com/Tester707/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tester707&layout=compact&theme=merko)](https://github.com/Tester707/github-readme-stats)
