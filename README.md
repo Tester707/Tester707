@@ -4,13 +4,13 @@
 
 <img align="right" width="400" alt="TSA" src="https://ifh.cc/g/3MhzwG.jpg"/>
 
-<h2> / about me /</h2>
+<h2> / About me /</h2>
   
 - ⭐ currently working on **game-development**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
-<h2> / current skills / </h2>
+<h2> / Current skills / </h2>
   
 - <h4> Tech Stack </h4>
   <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge">
@@ -20,10 +20,10 @@
   
 
   
-- <h4> libraries </h4>
+- <h4> Libraries </h4>
    <a href="https://www.pixiv.net/users/40955915"><img src = "https://img.shields.io/badge/%20PIXIV-%2331A8FF.svg?style=for-the-badge&logo=PIXIV&logoColor=white" alt = "Pixiv" /> 
    
-- <h4> designing tools </h4>
+- <h4> Designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/Clip%20STUDIO-%2331A8FF.svg?style=for-the-badge&logoColor=white" alt = "photoshop" />
   </br></br>
