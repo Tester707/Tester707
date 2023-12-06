@@ -12,12 +12,15 @@
   
 <h2> / current skills / </h2>
   
-- <h4> languages </h4>
-   <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
+- <h4> Tech Stack </h4>
+  <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge">
+  <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge">  
+  <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
   
 
   
-- <h4> frameworks & libraries </h4>
+- <h4> libraries </h4>
    <a href="https://www.pixiv.net/users/40955915"><img src = "https://img.shields.io/badge/%20PIXIV-%2331A8FF.svg?style=for-the-badge&logo=PIXIV&logoColor=white" alt = "Pixiv" /> 
    
 - <h4> designing tools </h4>
